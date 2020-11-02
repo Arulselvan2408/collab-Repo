@@ -26,7 +26,7 @@ namespace Classes_and_Objects
             methodsParamsEg obj = new methodsParamsEg();
             Console.WriteLine( obj.Calculation(Num1, Num2, l, sum, product, cal));
             Console.WriteLine("For jenkins checking");
-            conole.writeLine("Changes made by Manasvini");
+            Console.WriteLine("Changes made by Manasvini");
             Console.Read();
 
             
