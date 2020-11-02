@@ -15,6 +15,7 @@ namespace Classes_and_Objects
             sum = n1+ n2;
             product = n1 * n2;
             c = l = 2 * 8;
+            c = 1 = 2 * 7;
         }
         static void Main()
         {
