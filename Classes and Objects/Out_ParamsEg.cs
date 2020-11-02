@@ -15,7 +15,7 @@ namespace Classes_and_Objects
             sum = n1+ n2;
             product = n1 * n2;
             c = l = 2 * 8;
-            c = 1 = 2 * 7;
+            
         }
         static void Main()
         {
@@ -25,7 +25,8 @@ namespace Classes_and_Objects
             int cal = 0;
             methodsParamsEg obj = new methodsParamsEg();
             Console.WriteLine( obj.Calculation(Num1, Num2, l, sum, product, cal));
-            Console.WriteLine("For jenkins checking");
+            console.WriteLine("For jenkins checking");
+            conole.writeLine("Changes made by Manasvini");
             Console.Read();
 
             
